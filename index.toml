@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/archipel.jar"
+hash = "ba900e2bc5ff9424bb4011cdc8b72400943e28f7cee16b4e07e816d8d148eb79"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e6011adb854338c7279ce9b3fbd92cc15c53c2227c8ee264c8e3336f318419fb"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "32aa0ef75d3cd7f6895b1c1018e4a3066d88564d45aa01daa0279e996cd21682"
+metafile = true
