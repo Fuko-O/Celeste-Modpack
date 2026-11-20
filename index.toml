@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/archipel.jar"
+hash = "1676a9e2187ffbb1bd1457a61e1aed8d64f2374cc55dd70e042ec8a7f1b3569d"
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "99f044a1fd39009aac4116914a1a273cd5cd657316ae65a5b0e33e377d3ff0a3"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e6011adb854338c7279ce9b3fbd92cc15c53c2227c8ee264c8e3336f318419fb"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "32aa0ef75d3cd7f6895b1c1018e4a3066d88564d45aa01daa0279e996cd21682"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ca085563b7c593cc8be27adcd84b172ea0f975ffa0e47aacb0ae26b00919e1bf"
+metafile = true

@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "Launcher Céleste 0.3.0 (officielle)",
+  "pub_date": "2026-11-16T14:03:09Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2hUdG5Hd0h5Q1BCd24xeWdaL1ZqSVRrN1ltRHBSV29RTjdXMVRFUGV2QS95ZEdFaitlNndteWROM2QwUnU2b2wyZ1RoZ3RTR1JKY3dmaFVGRHRhZTdDa0pOeFFBZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM3Nzg4CWZpbGU6Q2VsZXN0ZV8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKcGlyN0pIazA4ak5jY0hFazBiRC9tTzRwWXFzRGJTUUQxZU5nZHlDL2VxMERXMm9iNERkWmJtNmVLazFXNldzL1ZQTFRKeGRwMHY3dk9paXBvUXcvREE9PQo=",
+      "url": "https://raw.githubusercontent.com/Fuko-O/Celeste-Modpack/main/launcher/Celeste_0.3.0_x64-setup.exe"
+    }
+  }
+}
