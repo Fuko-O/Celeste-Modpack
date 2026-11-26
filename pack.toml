@@ -1,0 +1,13 @@
+name = "Céleste"
+author = "Archipel céleste"
+version = "0.1.0+8846a78"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6281f225a408bcab945c0f7e634b6671dea4fc2aa507097603ce1d84491e0ffd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

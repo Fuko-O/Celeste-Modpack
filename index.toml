@@ -1,0 +1,39 @@
+hash-format = "sha256"
+
+[[files]]
+file = "earlywindow/celeste-earlywindow.jar"
+hash = "666aaccda400f5fece325c16c721c884d814b22183a2cba29c412893d9ef6705"
+
+[[files]]
+file = "mods/archipel.jar"
+hash = "3685ea28e89c5760f003ed303c8bec86b8091f1d514b81088e9b8e3add2a853c"
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "99f044a1fd39009aac4116914a1a273cd5cd657316ae65a5b0e33e377d3ff0a3"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b456f3987b40676bf47e725ba63115135e6dca300180d99efeae9810e8fbbfe3"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "e6011adb854338c7279ce9b3fbd92cc15c53c2227c8ee264c8e3336f318419fb"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "82e1dbd80df33f9cdd7e27cf51bcb3dec49c78079134a3cc623980307fd749bc"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "32aa0ef75d3cd7f6895b1c1018e4a3066d88564d45aa01daa0279e996cd21682"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ca085563b7c593cc8be27adcd84b172ea0f975ffa0e47aacb0ae26b00919e1bf"
+metafile = true
